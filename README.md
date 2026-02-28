@@ -13,6 +13,8 @@
 * [Geographic & Sales Trends](https://www.google.com/search?q=%23-geographic--sales-trends)
 * [Operational Efficiency](https://www.google.com/search?q=%23-operational-efficiency)
 * [Strategic Recommendations](https://www.google.com/search?q=%23-strategic-recommendations)
+* <a href="#dashboard">Dashboard</a>
+
 
 ---
 
@@ -90,8 +92,8 @@ The project links multiple datasets to create a comprehensive view of the busine
 
 ---
 
-### How to Run the Project
+<h2><a class="anchor" id="#Dashboard"></a>Dashboard</h2>
 
-1. **SQL Queries:** Located in `/SQL_Scripts/`, execute these to generate the analytical tables.
-2. **Power BI:** Open `iTunes_Sales_Analysis.pbix` to view the interactive dashboards.
-3. **Report:** View `Final_Report.pdf` for a detailed breakdown of the findings.
+<img width="1127" height="731" alt="image" src="https://github.com/user-attachments/assets/96116775-68a6-4b9f-bd42-3b66d1b27969" />
+
+
